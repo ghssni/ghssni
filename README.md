@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ghassani Nurbaningtyas
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Deep Learning
+- 📫 Collab with me ghtyas25@gmail.com
+- 😄 Pronouns: Tyas
